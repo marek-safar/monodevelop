@@ -17,7 +17,7 @@ DEP[0]=md-addins
 DEP_NAME[0]=MDADDINS
 DEP_PATH[0]=${top_srcdir}/../md-addins
 DEP_MODULE[0]=git@github.com:xamarin/md-addins.git
-DEP_NEEDED_VERSION[0]=9fb867bfd3b345c64455fea5a8b3f5b20908a89b
+DEP_NEEDED_VERSION[0]=ce449f6c273efb4e9f5f14c7dfb9ce2f6bc3113c
 DEP_BRANCH_AND_REMOTE[0]="kill-authenticator-app origin/kill-authenticator-app"
  
 # heap-shot
